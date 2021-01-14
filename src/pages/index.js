@@ -73,7 +73,7 @@ export default function Home() {
 							<h2>Babybauch</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
 							<ul className="actions stacked">
-								<li><Link to="babybauch" className="button">Learn More</Link></li>
+								<li><Link to="#" className="button">Learn More</Link></li>
 							</ul>
 						</div>
 						<div className="image">
